@@ -33,7 +33,7 @@
     <a href="#"><img src="https://img.shields.io/static/v1?label=&message=Vue.js&color=%4FC08D&style=for-the-badge&logo=Vue.js&logoColor=grey" alt="Vue.js"></a>
     <br><br>
     <a href="#"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
-    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=NGINX&color=%009639&style=for-the-badge&logo=NGINX&logoColor=whitesmoke" alt="NGINX"></a>
+    <a href="#"><img src="https://img.shields.io/static/v1?label=&message=NGINX&color=009639&style=for-the-badge&logo=NGINX&logoColor=whitesmoke" alt="NGINX"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=&message=PostgreSQL&color=%233178C6&style=for-the-badge&logo=PostgreSQL&logoColor=whitesmoke" alt="PostgreSQL"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=&message=MariaDB&color=003545&style=for-the-badge&logo=MariaDB&logoColor=whitesmoke" alt="MariaDB"></a>
     <a href="#"><img src="https://img.shields.io/static/v1?label=&message=MongoDB&color=47A248&style=for-the-badge&logo=MongoDB&logoColor=whitesmoke" alt="MongoDB"></a>
