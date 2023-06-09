@@ -2,7 +2,7 @@
 
 ###
 
-<h1 align="left">Hi 👋🏽, I'm Leonardo Guedes</h1>
+<h1 align="left">Hi 👋🏽, I'm Leonardo Guedes </h1>
 
 ###
 
